@@ -1,0 +1,6 @@
+namespace LoaderAppApi.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
